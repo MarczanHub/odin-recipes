@@ -1,2 +1,2 @@
 # odin-recipes
-Zadanie TOP
+The Odin Project (TOP) Assignment
